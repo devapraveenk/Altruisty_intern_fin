@@ -17,9 +17,3 @@ def startuprun():
             with col3:
                 st.image(img[f][2], caption=f"Date: {Date[f][2]}", width=200) 
                 st.page_link("https://www.sulekha.com/",label="To connect")
-    
-
-
-
-startuprun()
-
