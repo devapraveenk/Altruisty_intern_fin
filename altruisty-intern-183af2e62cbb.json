@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "altruisty-intern",
+  "private_key_id": "183af2e62cbbf8e8c6f22681c855bb2cffb1ae6b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCmYZMhAkpmJBmQ\nI4HoZOtue0VgD6vZNNk0inAkZNE946LBZRh32Vv1rUG+T8p7yExXbg9AHDmVZkkB\nTNDSGyNW1x1YEFICpPsh7IvDbavz9vHazQH3s1ZZXMadOt25j6HOLRC5U9uW3+/6\n/GMaWUsa/slSHrtRGQW1frbeiAQTSMAz1gnRQ7bd8RL5OpWc/6f1EJhOm9zc+q3f\nJI2IuJFcqHpvX959NTeAA/o9WgssNNceEAIo8MchFHo7b9Lj/EuysQhbIuDFnxuP\nrwqYof1BoMEedSw8hlPcjbfC1ORu/OQpVvlJMbQb11S6itgzwQZo13jscAzgKtiT\nn6tPVKZVAgMBAAECggEAREyz0A4XqnxRPhlFX7fl6ZGS9g8Y1W5bZ7UYuefk+Unz\n6v3sIG7K0DxSS6SHk26y4AUfH4s2nDzD5VO6OTXIuQJPWnJAqDM/oDpxWUUxHFIY\nEGCt2Rf2b3KlWa/rixwKKQ/Y2Ksy7ml5IwfuSsezDB7hV+Ojs3PZIxskSI9/VMaT\nndGFWzQI6RAwJs6lxjCTfcFskfaw9aE5tfJXuK2500LMul9lAIxrEQ4sx0kDj1Q9\nZH1TA3Coe0CSy3f6JPZkmBVn8QcC06swySdtFRqsbBQYB9NLkwtQskndBtK8Kn92\nR0HLKSqecen9gRiSUC1eeptiTSr4CarvMCoRlNwL1QKBgQDfb+VVmSM9RpfbHEtP\npeMCrDffQa5rl8nAFuOLThGFIAf5lBRJ1NfOBRpY9TMfQMkLVaK38+YClrOdOSTt\nbMzlF84w2SnMTFDWrPq9DhMFboOBYFSqulxaftR4TZcB746Ks1tgYZf+ppmP/svb\nrn19gpWMKCAuhLzltsG/RwImdwKBgQC+oQHF/0RbguEeclxw5soInY5MN1Orharj\nTclrQNo8v3FCFvKiWexZvJjTFRyqRvuUlcmHq89rVP61cUHGRha2PLM0xrIQ4UYU\nzyNZNkCBogcMQ4FGw9eXBBSpcktNTKZEAXZ4GFUOlg6CfAdF5fSddokOK81Dm3he\npVJNEH/wkwKBgG8iQ8pYmft/Yka8gwUBuLD6oeusyql/XPzrJZCDaxlw/iZ4LcMv\nV4uEZD987kmMOrMljAK9EFmXRY1c/+4L4LnOJmOLkEuqZcbxUOG532IjPsuZ82Lb\nwNXOIbYYuZRf5+E7JqcAw84IZXcGv7TrzEUiL2oAB0m8Agyr4yBVnE8vAoGBAKhM\ndchcqfkw/5dl1/9FgrFAiNT5M8GG7WxozJ8ITqS7UD7NC8ISKfy/6RzS0s/yg0KX\nS6mgIivcilOefjeSwZJ63KyHj8YfXUQZ7Fdi8miAqEBHiOb1GG2XiLZg1eKU/WWk\n9PbqZI3QJVdGMRWhA+nRMQd13G8H36mPw62OF6ZJAoGBAMpgbinltE0sy11POca/\nSt82x7UfDFuwCfzbsnvPLiW6pDMww/syVHAFUM0MlBTL0d2eAg1PZCJBmvSKG8sJ\nXghQP7YsIeVp4oBRO0vVrBRNj+r1H71aEKbQuIlEGQtU6L4bgHkIEx9BPmXUmWm1\nxYjcLvx/QeBy98RcLQtr+0br\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-e0820@altruisty-intern.iam.gserviceaccount.com",
+  "client_id": "104679177985249150967",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-e0820%40altruisty-intern.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

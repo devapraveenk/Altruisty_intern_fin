@@ -1,0 +1,10 @@
+streamlit
+streamlit_option_menu
+firebase_admin
+langchain-community
+langchain
+langchain-google-genai
+python-dotenv
+pandas
+nltk
+spacy
