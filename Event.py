@@ -31,11 +31,3 @@ def runevent():
                 elif f==3:
                     if st.button("View More", key="home_button4"):
                         st.markdown("[Home Page](http://localhost:8501/main.py/page2.py)")
-                
-
-
-
-
-runevent()
-
-
