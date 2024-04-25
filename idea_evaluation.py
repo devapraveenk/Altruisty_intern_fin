@@ -258,5 +258,3 @@ def idea():
             st.write(f"Sentiment Score: {analysis_result['sentiment_score']}")
             st.write(f"Identified Entities: {analysis_result['identified_entities']}")
             st.write(f"Potential Themes: {analysis_result['potential_themes']}")
-
-idea()
