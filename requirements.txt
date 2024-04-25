@@ -8,4 +8,4 @@ python-dotenv
 pandas
 nltk
 spacy
-spacy-nightly
+en-core-web-sm == 3.0.0
